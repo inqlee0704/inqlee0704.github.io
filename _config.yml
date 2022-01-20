@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "InQ"
+title                    : "My first name is In Kyu"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "InQ"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "In Kyu Lee"
+  name             : "In Kyu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Moving Forward**"
   location         : "US"
@@ -288,3 +288,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
