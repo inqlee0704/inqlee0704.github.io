@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My first name is In Kyu"
+title                    : "temoc"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "My first name is In Kyu"
 name                     : "InQ"
 description              : "InQ Blog"
 url                      : "https://inqlee0704.github.io"
