@@ -3,7 +3,6 @@ layout: single
 title: "How to set up Globus for files transfer"
 ---
 
-# How to set up Globus for files transfer
 
 ![Globus website](../images/2022-01-27-How-to-set-up-Globus/Untitled.png)
 
